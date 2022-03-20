@@ -1,4 +1,4 @@
-# Devplace_Challengee
+# Devplace_Challenge
 Resolucion del challenge 2022
 
 Decidí realizar la primera parte en python porque es un lenguaje cómodo para este tipo de tareas mientras que 
